@@ -7,7 +7,7 @@
 # exercise 5-10
 #
 current_users = ['Chlordane', 'Spydat3k', 'R3cluse9', 'Joker', 'Keith']
-new_users = ['Jim', 'Kim', 'Jacob', 'Susan', 'Matthew', 'Harlan', 'Keith', 'Chlordane']
+new_users = ['Jim', 'Kim', 'Jacob', 'Cindy', 'Matthew', 'Harlan', 'Keith', 'Chlordane']
 #
 for name in new_users:
     if name in current_users:
