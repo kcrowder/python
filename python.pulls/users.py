@@ -27,13 +27,13 @@ class User():
         """Display a personalized greeting to the user."""
         print("\nWelcome back, " + self.username + "!")
 
-eric = User('keith', 'crowder', 'keith', 'keith@example.com', 'texas')
-eric.describe_user()
-eric.greet_user()
+keith = User('keith', 'crowder', 'keith', 'keith@example.com', 'texas')
+keith.describe_user()
+keith.greet_user()
 
-willie = User('hacker', 'krolden', 'chlordane', 'chlordane@example.com', 'the net')
-willie.describe_user()
-willie.greet_user()
+chlordane = User('hacker', 'krolden', 'chlordane', 'chlordane@example.com', 'the net')
+chlordane.describe_user()
+chlordane.greet_user()
 #
 # end of program
 #
